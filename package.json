@@ -2,5 +2,8 @@
   "name": "test-cypress",
   "version": "0.1.0",
   "description": "Action testing with Cypress",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  }
 }
